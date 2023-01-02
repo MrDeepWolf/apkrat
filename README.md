@@ -1,4 +1,4 @@
-**Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
+**Warning!** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 # ApkRAT 
 
 Twitter Follow(https://twitter.com/Enpazturk)
@@ -11,7 +11,7 @@ ApkRAT is a tool designed to give the control of the android system remotely and
 > apkRAT also works on Android 10 (Q) but some of the interpreter command will be unstable. 
 
 
-![ApkRAT]("ApkRAT in action")
+
 ## Features of ApkRAT 
 * Full persistent backdoor
 * Invisible icon on install
