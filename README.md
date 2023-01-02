@@ -125,11 +125,6 @@ In the sh shell there are some sub commands
 
 ## Interpreter Examples
 * Generating APK
-------------------------------------------------------------------------------------------------------------------------------  
-
-* Some interpreter Commands 
-------------------------------------------------------------------------------------------------------------------------------
-
 
 ## License
 Apkrat is licensed under MIT license take a look at the [LICENSE](LICENSE) for more information.
