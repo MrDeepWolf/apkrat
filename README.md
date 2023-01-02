@@ -13,10 +13,9 @@ ApkRAT is a tool designed to give the control of the android system remotely and
 
 ## Screenshots
 
-![ApkRAT](Screenshots/5.jpg "ApkRAT in action")
+![ApkRAT]("ApkRAT in action")
 ## Features of ApkRAT 
 * Full persistent backdoor
-* ~~Fully undetectable by any antivirus scanner [VirusTotal](https://www.virustotal.com/gui/file/e900b5d37ad8c8f79ca000b148253af04696a85fdfc245861cfb226dd86562df/detection)~~
 * Invisible icon on install
 * Light weight apk which runs 24*7 in background
 * App starts automatically on boot up 
@@ -128,24 +127,10 @@ In the sh shell there are some sub commands
 
 ## Interpreter Examples
 * Generating APK
-<p align="center">
-  <img src="Screenshots/6.JPG" width="800"/>
-</p>
 ------------------------------------------------------------------------------------------------------------------------------  
 
 * Some interpreter Commands 
-<p align="center">
-  <img src="Screenshots/1.JPG" width="800"/>
-</p>
 ------------------------------------------------------------------------------------------------------------------------------
-
-## Supporters:
-[![rayep](https://avatars.githubusercontent.com/u/40718616?v=4&s=60)](https://github.com/rayep)
-
-## TODO
-* ~~Ngrok support~~
-* Set up multi client
-* Add screenshot command
 
 
 ## License
