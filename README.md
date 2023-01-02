@@ -10,7 +10,6 @@ ApkRAT is a tool designed to give the control of the android system remotely and
 
 > apkRAT also works on Android 10 (Q) but some of the interpreter command will be unstable. 
 
-## Screenshots
 
 ![ApkRAT]("ApkRAT in action")
 ## Features of ApkRAT 
