@@ -1,9 +1,8 @@
 **Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 # ApkRAT 
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![Twitter Follow](https://twitter.com/Enpazturk)
-[![GitHub followers](https://github.com/MrDeepWolf/)
+Twitter Follow(https://twitter.com/Enpazturk)
+GitHub followers(https://github.com/MrDeepWolf/)
 
 ApkRAT is a tool designed to give the control of the android system remotely and retrieve informations from it. apkrat is a client/server application developed in Java Android for the client side and the Server is in Python.
 
